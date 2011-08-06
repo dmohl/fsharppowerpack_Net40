@@ -1,0 +1,6 @@
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\FSharp.PowerPack.Compatibility.dll
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\FSharp.PowerPack.Compatibility.pdb
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\FSharp.PowerPack.Compatibility.xml
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Compatibility\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Compatibility\obj\Release\FSharp.PowerPack.Compatibility.dll
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Compatibility\obj\Release\FSharp.PowerPack.Compatibility.pdb

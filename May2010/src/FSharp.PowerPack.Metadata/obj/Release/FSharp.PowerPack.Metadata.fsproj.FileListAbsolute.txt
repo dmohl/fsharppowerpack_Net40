@@ -1,0 +1,6 @@
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\FSharp.PowerPack.Metadata.dll
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\FSharp.PowerPack.Metadata.pdb
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\FSharp.PowerPack.Metadata.xml
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Metadata\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Metadata\obj\Release\FSharp.PowerPack.Metadata.dll
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Metadata\obj\Release\FSharp.PowerPack.Metadata.pdb

@@ -1,0 +1,6 @@
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Debug\bin\FSharp.PowerPack.Build.Tasks.dll
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Debug\bin\FSharp.PowerPack.Build.Tasks.pdb
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Debug\bin\FSharp.PowerPack.Build.Tasks.xml
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Build.Tasks\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Build.Tasks\obj\Debug\FSharp.PowerPack.Build.Tasks.dll
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Build.Tasks\obj\Debug\FSharp.PowerPack.Build.Tasks.pdb

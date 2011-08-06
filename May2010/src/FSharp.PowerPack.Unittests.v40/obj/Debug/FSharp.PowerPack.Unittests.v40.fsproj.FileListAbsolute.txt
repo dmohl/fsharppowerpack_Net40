@@ -1,0 +1,5 @@
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Debug\bin\FSharp.PowerPack.Unittests.v40.dll
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Debug\bin\FSharp.PowerPack.Unittests.v40.pdb
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Unittests.v40\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Unittests.v40\obj\Debug\FSharp.PowerPack.Unittests.v40.dll
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Unittests.v40\obj\Debug\FSharp.PowerPack.Unittests.v40.pdb

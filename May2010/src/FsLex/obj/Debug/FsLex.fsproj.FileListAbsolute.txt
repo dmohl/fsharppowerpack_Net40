@@ -1,0 +1,7 @@
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Debug\bin\App.config
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Debug\bin\fslex.exe.config
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Debug\bin\fslex.exe
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Debug\bin\fslex.pdb
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsLex\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsLex\obj\Debug\fslex.exe
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsLex\obj\Debug\fslex.pdb

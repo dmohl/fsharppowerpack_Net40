@@ -1,0 +1,37 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="649FA588-F02E-457C-9FCF-87E46407481F/f:q.fsi" caret="2454" fromTop="50" />
+      <File id="E2A0F944-E76E-4C53-B037-A050FDF7378A/f:BigRationalTests.fs" caret="9646" fromTop="16" />
+      <File id="E2A0F944-E76E-4C53-B037-A050FDF7378A/f:HashtblTests.fs" caret="1402" fromTop="9" />
+      <File id="E2A0F944-E76E-4C53-B037-A050FDF7378A/f:MatrixVectorTests.fs" caret="0" fromTop="0" />
+      <File id="E2A0F944-E76E-4C53-B037-A050FDF7378A/f:AsyncStreamReaderTest.fs" caret="3887" fromTop="22" />
+      <File id="9EF49218-FD64-43A8-922B-84B1FF576773/f:generator.fs" caret="10218" fromTop="18" />
+      <File id="9EF49218-FD64-43A8-922B-84B1FF576773/f:compiler.fs" caret="7368" fromTop="13" />
+      <File id="1B749E89-2B1A-4443-A522-EEB348E01555/f:SeqModule.fs" caret="15071" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E2A0F944-E76E-4C53-B037-A050FDF7378A/f:HashtblTests.fs" caret="1402" fromTop="9" />
+      <File id="9EF49218-FD64-43A8-922B-84B1FF576773/f:generator.fs" caret="10218" fromTop="18" />
+      <File id="9EF49218-FD64-43A8-922B-84B1FF576773/f:compiler.fs" caret="7670" fromTop="13" />
+      <File id="9EF49218-FD64-43A8-922B-84B1FF576773/f:compiler.fs" caret="7497" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

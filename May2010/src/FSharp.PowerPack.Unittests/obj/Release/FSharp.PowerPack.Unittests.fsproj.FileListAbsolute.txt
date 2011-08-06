@@ -1,0 +1,7 @@
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\NORTHWND.MDF
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\App.config
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\FSharp.PowerPack.Unittests.dll
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\FSharp.PowerPack.Unittests.pdb
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Unittests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Unittests\obj\Release\FSharp.PowerPack.Unittests.dll
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack.Unittests\obj\Release\FSharp.PowerPack.Unittests.pdb

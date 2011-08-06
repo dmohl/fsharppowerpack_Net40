@@ -1,0 +1,7 @@
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\App.config
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\fsyacc.exe.config
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\fsyacc.exe
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\fsyacc.pdb
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsYacc\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsYacc\obj\Release\fsyacc.exe
+C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsYacc\obj\Release\fsyacc.pdb
