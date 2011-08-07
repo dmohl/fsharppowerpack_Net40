@@ -5,3 +5,10 @@ C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\fsyacc.
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsYacc\obj\Release\ResolveAssemblyReference.cache
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsYacc\obj\Release\fsyacc.exe
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsYacc\obj\Release\fsyacc.pdb
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\App.config
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\fsyacc.exe.config
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\fsyacc.exe
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\fsyacc.pdb
+C:\git\fsharppowerpack_Net40\May2010\src\FsYacc\obj\Release\ResolveAssemblyReference.cache
+C:\git\fsharppowerpack_Net40\May2010\src\FsYacc\obj\Release\fsyacc.exe
+C:\git\fsharppowerpack_Net40\May2010\src\FsYacc\obj\Release\fsyacc.pdb

@@ -1,0 +1,6 @@
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.Compiler.CodeDom.dll
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.Compiler.CodeDom.pdb
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.Compiler.CodeDom.xml
+C:\git\fsharppowerpack_Net40\head\src\FSharp.Compiler.CodeDom\obj\Debug\ResolveAssemblyReference.cache
+C:\git\fsharppowerpack_Net40\head\src\FSharp.Compiler.CodeDom\obj\Debug\FSharp.Compiler.CodeDom.dll
+C:\git\fsharppowerpack_Net40\head\src\FSharp.Compiler.CodeDom\obj\Debug\FSharp.Compiler.CodeDom.pdb

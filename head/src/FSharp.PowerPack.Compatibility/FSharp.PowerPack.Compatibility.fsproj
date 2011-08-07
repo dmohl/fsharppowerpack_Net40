@@ -6,6 +6,7 @@
     <SccProvider>SAK</SccProvider>
     <SccAuxPath>SAK</SccAuxPath>
     <SccLocalPath>SAK</SccLocalPath>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <Import Project="$(FSharpPowerPackSourcesRoot)\FSharpPowerPackSource.Settings.targets" />
   <PropertyGroup>
@@ -15,7 +16,7 @@
     <ProjectGuid>{6fc3b299-23cb-4098-998d-06c014431807}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>FSharp.PowerPack.Compatibility</AssemblyName>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TreatWarningsAsErrors>
     </TreatWarningsAsErrors>
     <DocumentationFile>FSharp.PowerPack.Compatibility.xml</DocumentationFile>
@@ -169,6 +170,7 @@
   <ItemGroup>
     <Reference Include="mscorlib" />
     <Reference Include="System" />
+    <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\FSharp.PowerPack\FSharp.PowerPack.fsproj">
@@ -180,5 +182,5 @@
   <Import Project="$(FSharpPowerPackSourcesRoot)\FSharpPowerPackSource.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\FSharp\1.0\Microsoft.FSharp.Targets" Condition="!Exists('$(MSBuildBinPath)\Microsoft.Build.Tasks.v4.0.dll')" />
   <Import Project="$(MSBuildExtensionsPath32)\..\Microsoft F#\v4.0\Microsoft.FSharp.Targets" Condition="Exists('$(MSBuildBinPath)\Microsoft.Build.Tasks.v4.0.dll')" />
-  <Import Condition="'$(TargetFramework)'=='Silverlight'" Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.Common.targets"/>
+  <Import Condition="'$(TargetFramework)'=='Silverlight'" Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.Common.targets" />
 </Project>

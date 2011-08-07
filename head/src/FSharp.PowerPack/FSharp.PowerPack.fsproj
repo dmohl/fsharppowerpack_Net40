@@ -6,6 +6,7 @@
     <SccProvider>SAK</SccProvider>
     <SccAuxPath>SAK</SccAuxPath>
     <SccLocalPath>SAK</SccLocalPath>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <Import Project="$(FSharpPowerPackSourcesRoot)\FSharpPowerPackSource.Settings.targets" />
   <PropertyGroup>
@@ -15,7 +16,7 @@
     <ProjectGuid>{649FA588-F02E-457C-9FCF-87E46407481F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>FSharp.PowerPack</AssemblyName>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TreatWarningsAsErrors>
     </TreatWarningsAsErrors>
     <DocumentationFile>FSharp.PowerPack.xml</DocumentationFile>
@@ -25,6 +26,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <Import Project="$(FSharpPowerPackSourcesRoot)\FSharpPowerPackSource.targets" />
   <ItemGroup>
@@ -108,9 +110,10 @@
   <ItemGroup>
     <Reference Include="mscorlib" />
     <Reference Include="System" />
-    <Reference Condition="'$(TargetFramework)' == 'Silverlight'" Include="System.Net" />    
+    <Reference Condition="'$(TargetFramework)' == 'Silverlight'" Include="System.Net" />
+    <Reference Include="System.Numerics" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\FSharp\1.0\Microsoft.FSharp.Targets" Condition="!Exists('$(MSBuildBinPath)\Microsoft.Build.Tasks.v4.0.dll')" />
   <Import Project="$(MSBuildExtensionsPath32)\..\Microsoft F#\v4.0\Microsoft.FSharp.Targets" Condition="Exists('$(MSBuildBinPath)\Microsoft.Build.Tasks.v4.0.dll')" />
-  <Import Condition="'$(TargetFramework)'=='Silverlight'" Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.Common.targets"/>
+  <Import Condition="'$(TargetFramework)'=='Silverlight'" Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.Common.targets" />
 </Project>

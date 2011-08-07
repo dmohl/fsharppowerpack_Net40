@@ -1,0 +1,6 @@
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.PowerPack.dll
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.PowerPack.pdb
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.PowerPack.xml
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack\obj\Debug\ResolveAssemblyReference.cache
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack\obj\Debug\FSharp.PowerPack.dll
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack\obj\Debug\FSharp.PowerPack.pdb

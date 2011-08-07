@@ -6,6 +6,7 @@
     <SccProvider>SAK</SccProvider>
     <SccAuxPath>SAK</SccAuxPath>
     <SccLocalPath>SAK</SccLocalPath>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <Import Project="$(FSharpPowerPackSourcesRoot)\FSharpPowerPackSource.Settings.targets" />
   <PropertyGroup>
@@ -16,7 +17,7 @@
     <OutputType>Library</OutputType>
     <AssemblyName>FSharp.PowerPack.Build.Tasks</AssemblyName>
     <AllowCrossTargeting>true</AllowCrossTargeting>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <DocumentationFile>FSharp.PowerPack.Build.Tasks.xml</DocumentationFile>
     <NoWarn>$(NoWarn);9;60;35;42;62;86;47;40</NoWarn>
   </PropertyGroup>

@@ -1,0 +1,7 @@
+C:\git\fsharppowerpack_Net40\head\Release\bin\NORTHWND.MDF
+C:\git\fsharppowerpack_Net40\head\Release\bin\FSharp.PowerPack.Unittests.dll
+C:\git\fsharppowerpack_Net40\head\Release\bin\FSharp.PowerPack.Unittests.pdb
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Unittests\obj\Release\ResolveAssemblyReference.cache
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Unittests\obj\Release\FSharp.PowerPack.Unittests.dll
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Unittests\obj\Release\FSharp.PowerPack.Unittests.pdb
+C:\git\fsharppowerpack_Net40\head\Release\bin\App.config

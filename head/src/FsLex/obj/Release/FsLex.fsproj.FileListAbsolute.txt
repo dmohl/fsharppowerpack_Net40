@@ -1,0 +1,7 @@
+C:\git\fsharppowerpack_Net40\head\Release\bin\fslex.exe
+C:\git\fsharppowerpack_Net40\head\Release\bin\fslex.pdb
+C:\git\fsharppowerpack_Net40\head\src\FsLex\obj\Release\ResolveAssemblyReference.cache
+C:\git\fsharppowerpack_Net40\head\src\FsLex\obj\Release\fslex.exe
+C:\git\fsharppowerpack_Net40\head\src\FsLex\obj\Release\fslex.pdb
+C:\git\fsharppowerpack_Net40\head\Release\bin\App.config
+C:\git\fsharppowerpack_Net40\head\Release\bin\fslex.exe.config

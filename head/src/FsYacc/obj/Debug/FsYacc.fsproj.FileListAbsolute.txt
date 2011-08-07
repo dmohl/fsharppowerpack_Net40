@@ -1,0 +1,5 @@
+C:\git\fsharppowerpack_Net40\head\Debug\bin\fsyacc.exe
+C:\git\fsharppowerpack_Net40\head\Debug\bin\fsyacc.pdb
+C:\git\fsharppowerpack_Net40\head\src\FsYacc\obj\Debug\ResolveAssemblyReference.cache
+C:\git\fsharppowerpack_Net40\head\src\FsYacc\obj\Debug\fsyacc.exe
+C:\git\fsharppowerpack_Net40\head\src\FsYacc\obj\Debug\fsyacc.pdb

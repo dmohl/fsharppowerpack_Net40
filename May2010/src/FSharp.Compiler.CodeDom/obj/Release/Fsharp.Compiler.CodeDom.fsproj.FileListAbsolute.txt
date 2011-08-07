@@ -4,3 +4,9 @@ C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\FSharp.
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.Compiler.CodeDom\obj\Release\ResolveAssemblyReference.cache
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.Compiler.CodeDom\obj\Release\FSharp.Compiler.CodeDom.dll
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.Compiler.CodeDom\obj\Release\FSharp.Compiler.CodeDom.pdb
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\FSharp.Compiler.CodeDom.dll
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\FSharp.Compiler.CodeDom.pdb
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\FSharp.Compiler.CodeDom.xml
+C:\git\fsharppowerpack_Net40\May2010\src\FSharp.Compiler.CodeDom\obj\Release\ResolveAssemblyReference.cache
+C:\git\fsharppowerpack_Net40\May2010\src\FSharp.Compiler.CodeDom\obj\Release\FSharp.Compiler.CodeDom.dll
+C:\git\fsharppowerpack_Net40\May2010\src\FSharp.Compiler.CodeDom\obj\Release\FSharp.Compiler.CodeDom.pdb

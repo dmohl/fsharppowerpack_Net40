@@ -1,0 +1,6 @@
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.PowerPack.Build.Tasks.dll
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.PowerPack.Build.Tasks.pdb
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.PowerPack.Build.Tasks.xml
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Build.Tasks\obj\Debug\ResolveAssemblyReference.cache
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Build.Tasks\obj\Debug\FSharp.PowerPack.Build.Tasks.dll
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Build.Tasks\obj\Debug\FSharp.PowerPack.Build.Tasks.pdb

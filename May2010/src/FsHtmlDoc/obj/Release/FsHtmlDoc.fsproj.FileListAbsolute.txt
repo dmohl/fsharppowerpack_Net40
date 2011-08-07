@@ -5,3 +5,10 @@ C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\fshtmld
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsHtmlDoc\obj\Release\ResolveAssemblyReference.cache
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsHtmlDoc\obj\Release\fshtmldoc.exe
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsHtmlDoc\obj\Release\fshtmldoc.pdb
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\App.config
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\fshtmldoc.exe.config
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\fshtmldoc.exe
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\fshtmldoc.pdb
+C:\git\fsharppowerpack_Net40\May2010\src\FsHtmlDoc\obj\Release\ResolveAssemblyReference.cache
+C:\git\fsharppowerpack_Net40\May2010\src\FsHtmlDoc\obj\Release\fshtmldoc.exe
+C:\git\fsharppowerpack_Net40\May2010\src\FsHtmlDoc\obj\Release\fshtmldoc.pdb

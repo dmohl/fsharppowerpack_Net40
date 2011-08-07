@@ -6,6 +6,7 @@
     <SccProvider>SAK</SccProvider>
     <SccAuxPath>SAK</SccAuxPath>
     <SccLocalPath>SAK</SccLocalPath>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <Import Project="$(FSharpPowerPackSourcesRoot)\FSharpPowerPackSource.Settings.targets" />
   <PropertyGroup>
@@ -19,7 +20,7 @@
     <TreatWarningsAsErrors>
     </TreatWarningsAsErrors>
     <!-- 5310 tracks reenabling -->
-    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
   </PropertyGroup>
   <!-- These dummy entries are needed for F# Beta2 -->
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">

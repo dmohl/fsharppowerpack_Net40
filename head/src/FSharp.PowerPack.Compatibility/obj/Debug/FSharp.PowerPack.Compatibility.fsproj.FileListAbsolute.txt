@@ -1,0 +1,6 @@
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.PowerPack.Compatibility.dll
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.PowerPack.Compatibility.pdb
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.PowerPack.Compatibility.xml
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Compatibility\obj\Debug\ResolveAssemblyReference.cache
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Compatibility\obj\Debug\FSharp.PowerPack.Compatibility.dll
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Compatibility\obj\Debug\FSharp.PowerPack.Compatibility.pdb

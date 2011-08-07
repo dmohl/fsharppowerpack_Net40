@@ -4,3 +4,9 @@ C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\FSharp.
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack\obj\Release\ResolveAssemblyReference.cache
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack\obj\Release\FSharp.PowerPack.dll
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FSharp.PowerPack\obj\Release\FSharp.PowerPack.pdb
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\FSharp.PowerPack.dll
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\FSharp.PowerPack.pdb
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\FSharp.PowerPack.xml
+C:\git\fsharppowerpack_Net40\May2010\src\FSharp.PowerPack\obj\Release\ResolveAssemblyReference.cache
+C:\git\fsharppowerpack_Net40\May2010\src\FSharp.PowerPack\obj\Release\FSharp.PowerPack.dll
+C:\git\fsharppowerpack_Net40\May2010\src\FSharp.PowerPack\obj\Release\FSharp.PowerPack.pdb

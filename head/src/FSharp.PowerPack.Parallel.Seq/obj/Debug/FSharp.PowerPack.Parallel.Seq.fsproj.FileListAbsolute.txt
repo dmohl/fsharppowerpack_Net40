@@ -1,0 +1,6 @@
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.PowerPack.Parallel.Seq.dll
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.PowerPack.Parallel.Seq.pdb
+C:\git\fsharppowerpack_Net40\head\Debug\bin\FSharp.PowerPack.Parallel.Seq.xml
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Parallel.Seq\obj\Debug\ResolveAssemblyReference.cache
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Parallel.Seq\obj\Debug\FSharp.PowerPack.Parallel.Seq.dll
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Parallel.Seq\obj\Debug\FSharp.PowerPack.Parallel.Seq.pdb

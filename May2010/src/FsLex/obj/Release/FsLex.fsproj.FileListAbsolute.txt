@@ -5,3 +5,10 @@ C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\Release\bin\fslex.p
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsLex\obj\Release\ResolveAssemblyReference.cache
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsLex\obj\Release\fslex.exe
 C:\Users\Daniel Mohl\Downloads\fsharppowerpack-54799\May2010\src\FsLex\obj\Release\fslex.pdb
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\App.config
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\fslex.exe.config
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\fslex.exe
+C:\git\fsharppowerpack_Net40\May2010\Release\bin\fslex.pdb
+C:\git\fsharppowerpack_Net40\May2010\src\FsLex\obj\Release\ResolveAssemblyReference.cache
+C:\git\fsharppowerpack_Net40\May2010\src\FsLex\obj\Release\fslex.exe
+C:\git\fsharppowerpack_Net40\May2010\src\FsLex\obj\Release\fslex.pdb

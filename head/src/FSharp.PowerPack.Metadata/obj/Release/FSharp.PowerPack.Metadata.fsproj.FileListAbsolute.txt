@@ -1,0 +1,6 @@
+C:\git\fsharppowerpack_Net40\head\Release\bin\FSharp.PowerPack.Metadata.dll
+C:\git\fsharppowerpack_Net40\head\Release\bin\FSharp.PowerPack.Metadata.pdb
+C:\git\fsharppowerpack_Net40\head\Release\bin\FSharp.PowerPack.Metadata.xml
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Metadata\obj\Release\ResolveAssemblyReference.cache
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Metadata\obj\Release\FSharp.PowerPack.Metadata.dll
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Metadata\obj\Release\FSharp.PowerPack.Metadata.pdb
