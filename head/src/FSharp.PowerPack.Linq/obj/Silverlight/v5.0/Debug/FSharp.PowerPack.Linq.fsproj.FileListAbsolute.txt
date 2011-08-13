@@ -1,0 +1,1 @@
+C:\git\fsharppowerpack_Net40\head\src\FSharp.PowerPack.Linq\obj\Silverlight\v5.0\Debug\ResolveAssemblyReference.cache
